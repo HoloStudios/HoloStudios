@@ -8,7 +8,7 @@ Here are some languages I currently know/learning:
 - C++ (Learning and used for my arduino projects)
 - HTML (Know the basics. Going to learn more)
 - CSS (Know the basics. Going to learn more)
-- Java (Learning but I know the basics already)
+- Java (I am knowldeable in Java learning more and more things about it though day to do)
 - JavaScript (Learning)
 - Python (My main programming language. Know a bunch already but still learning more to become a PRO)
 
