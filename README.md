@@ -4,7 +4,7 @@ My personal name is Ishan while I just go by HoloStudios on my accounts. I am a 
 learnings code, and just being a 8th grader you know... I am currently 13 and I am a self-taught devloper. 
 
 Here are some languages I currently know/learning:
-- C# (I use this with the unity game engine. Havn't worked with it outside unity though)
+- C# (I use this with the unity game engine. Haven't worked with it outside unity though)
 - C++ (Learning and used for my arduino projects)
 - HTML (Know the basics. Going to learn more)
 - CSS (Know the basics. Going to learn more)
